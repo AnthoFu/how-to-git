@@ -14,8 +14,7 @@ Para hacerlo:
     ```
 3.  **Resultado esperado:** Si Git está instalado, verás un mensaje con la versión de Git, por ejemplo: `git version 2.30.1`.
 4.  **Si no aparece la versión:** Significa que Git no está instalado o no está correctamente configurado en el PATH de tu sistema. En este caso, necesitarás instalarlo.
-    *   *(Opcional: Puedes añadir un enlace aquí a una sección de tu guía o un recurso externo sobre cómo instalar Git en diferentes SOs, si planeas incluirlo).*
-    *   *Por ejemplo: "Si necesitas instalar Git, puedes consultar [esta guía de instalación oficial](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) o los recursos complementarios del curso."*
+    * Si necesitas instalar Git, puedes consultar **[esta guía de instalación oficial](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)**
 
 ## 2. Creación y Preparación del Primer Proyecto con Git
 
