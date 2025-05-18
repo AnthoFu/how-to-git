@@ -176,6 +176,6 @@ Aquí tienes una lista de comandos básicos de terminal y de Git que son útiles
 
 ---
 
-**Siguiente Tema:** [Gestión de ramas en Git: Creación, Fusión y Eliminación Eficiente](./04-gestion-ramas.md)
+**Siguiente Tema:** [Gestión de ramas en Git: Creación, Fusión y Eliminación Eficiente](04-gestion-ramas.md)
 
-**Volver al:** [Índice Principal](../../README.md)
+**Volver al:** [Índice Principal](../README.md)
