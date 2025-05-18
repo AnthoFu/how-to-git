@@ -116,6 +116,6 @@ git commit --help
 
 Esto abrirá la página del manual para ese comando, ofreciendo una descripción detallada y sus opciones.
 
-**Siguiente Tema:** [Control de Versiones con Git: Comandos Básicos y Flujo de Trabajo](../03-control-versiones-comandos-flujo.md)
+**Siguiente Tema:** [Control de Versiones con Git: Comandos Básicos y Flujo de Trabajo](03-control-versiones-comandos-flujo.md)
 
 **Volver al:** [Índice Principal](../README.md)
